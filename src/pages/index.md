@@ -4,10 +4,22 @@ title: Great coffee with a conscience
 links:
   - url: asdf
     title: Twietter
+    Link:
+      url: asdf
+      title: asdf
   - url: Youtube
     title: youtube
+    Link:
+      url: asdf
+      title: asdf
   - url: asdf
     title: asdf
+    Link:
+      url: asdf
+      title: asdsaf
+  - Link:
+      url: fsasd
+      title: fdsadf
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
