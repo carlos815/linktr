@@ -1,6 +1,13 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
+links:
+  - title: Twitter Page
+    url: www.twitter.com
+  - title: Facebook Page
+    url: www.facebook.com
+  - title: Instagram Page
+    url: www.instagram.com
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
