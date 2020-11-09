@@ -8,6 +8,8 @@ links:
     url: www.facebook.com
   - title: Instagram Page
     url: www.instagradm.com
+  - url: www.youtube.com
+    title: Youtube
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
