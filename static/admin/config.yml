@@ -37,7 +37,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Enlaces, name: links, widget: list, fields: [
-            {label: link, name: Link, widget: list, fields: [{label: URL, name: url, widget: string}, {label: Título, name: title, widget: string}
+            {label: link, name: Link, widget: object, fields: [{label: URL, name: url, widget: string}, {label: Título, name: title, widget: string}
             ]}
           ]}
           - {label: Image, name: image, widget: image}
