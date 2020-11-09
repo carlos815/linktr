@@ -4,10 +4,22 @@ title: Great coffee with a conscience
 links:
   - title: Twitter Page
     url: www.twitter.com
+    Link:
+      url: asdf
+      title: wewewe
   - title: Facebook Page
     url: www.facebook.com
+    Link:
+      url: fafaf
+      title: sdfsdfs
   - title: Instagram Page
     url: www.instagradm.com
+    Link:
+      url: vxcvxcv
+      title: ererererer
+  - Link:
+      url: bcvbcvb
+      title: sdfsdfsdf
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
